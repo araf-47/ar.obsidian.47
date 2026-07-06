@@ -1,2 +1,6 @@
-# My Digital Garden
-Testing permissions
+# Homepage
+***
+## 🥀 Learn TypeScript
+### 🔹 [[Typescript learning roadmap (syllabus)]].
+***
+
