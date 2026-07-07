@@ -1,6 +1,14 @@
 # Homepage
 ***
-## 🥀 Learn TypeScript
-### 🔹 [[Typescript learning roadmap (syllabus)]].
+# 🫩 Exam section.
+## => Mid exams.
+## => Monthly exams.
+
+***
+
+# 🌴 Learning Section
+## => [[Learn JSP]].
+## => [[Learn TypeScript]].
+
 ***
 
