@@ -1,3 +1,4 @@
+
 Perfect, and thanks for the correction. From now on, I'll use your actual Tomcat installation path:
 
 ```text
@@ -197,10 +198,9 @@ It contains:
 
 * HTML
 * JSP syntax
-* Java expressions
+* [[Java expression]]s
 
 It must first be converted into a Servlet.
-
 Tomcat performs that conversion automatically.
 
 Without Tomcat (or another Servlet container), a JSP file is just text.
@@ -474,7 +474,7 @@ Usually safe for Tomcat to manage.
 webapps/
 ```
 
-The most important folder for beginners.
+==The most important folder for beginners==.
 
 Your web applications live here.
 
@@ -629,3 +629,277 @@ What do you think will happen?
 * Your JSP files stop working.
 
 Don't worry if you're unsure. I want to see how you're reasoning. We'll use your answer to discuss how important logs really are in day-to-day development.
+
+
+# Answer and feedback
+Fantastic. **This is a solid 7/7.** 🎉
+
+More importantly, your answers show that you're building a **mental model** instead of memorizing definitions. That's exactly how I wanted to teach this course.
+
+Let's review them.
+
+---
+
+# Question 1 ✅
+
+Your answer:
+
+> It is server that listens to port 8080. receive requests, manage them, and provide appropriate response. It also manages cookies and sessions.
+
+Excellent.
+
+I'd only make one small improvement.
+
+Instead of saying:
+
+> "It is a server..."
+
+Say:
+
+> **"Apache Tomcat is a Java web server and Servlet container."**
+
+Why?
+
+Because later you'll learn there are different kinds of servers:
+
+* Web Server (Tomcat)
+* Database Server (PostgreSQL)
+* FTP Server
+* Mail Server
+
+Being precise now will help later.
+
+---
+
+# Question 2 ✅
+
+Perfect.
+
+You correctly identified that JSP is **not** a Java source file.
+
+It contains:
+
+* HTML
+* JSP tags
+* Java expressions
+
+Tomcat converts it into a Servlet before Java can compile and execute it.
+
+Excellent.
+
+---
+
+# Question 3 ✅
+
+You listed:
+
+* listens on 8080
+* converts JSP to Servlet
+* manages sessions/cookies
+* receives requests
+* sends HTML responses
+
+Excellent.
+
+There are even more responsibilities (loading applications, serving static files, etc.), but these five are exactly what I wanted you to remember.
+
+---
+
+# Question 4 ✅
+
+Tomcat.
+
+Correct.
+
+The request never goes directly to a JSP.
+
+This is one of the most important ideas we've repeated several times.
+
+```
+Browser
+    │
+HTTP
+    ▼
+Tomcat
+    │
+    ▼
+Servlet / JSP
+```
+
+---
+
+# Question 5 ✅
+
+> All of my web applications live there.
+
+Exactly.
+
+Later your folder might look like:
+
+```
+webapps/
+
+├── StudentManagement/
+├── LibrarySystem/
+└── ROOT/
+```
+
+Each folder is a separate web application.
+
+---
+
+# Question 6 ✅
+
+Excellent reasoning.
+
+You gave **two independent reasons**, and both are correct.
+
+Reason 1:
+
+> There is no server.
+
+Correct.
+
+Reason 2:
+
+> Tomcat converts JSP into a Servlet.
+
+Also correct.
+
+That's a much better answer than simply saying:
+
+> "Because it doesn't work."
+
+---
+
+# Question 7 ⭐⭐⭐
+
+Correct.
+
+Deleting:
+
+```
+logs/
+```
+
+does **not** break Tomcat.
+
+You'll simply lose previous log files.
+
+In fact, many administrators periodically remove old logs to free disk space.
+
+When Tomcat starts again, it usually recreates the directory and begins writing new logs.
+
+---
+
+# ⭐ **One Small Technical Improvement**
+
+Earlier you wrote:
+
+> Tomcat sends HTML response.
+
+That's true **most of the time**, but I want to refine it now.
+
+==Tomcat actually sends an== **HTTP response**.
+
+==That response body might contain==:
+
+* HTML ✅
+* JSON (later with Spring Boot)
+* CSS
+* JavaScript
+* Images
+* PDF files
+
+So a more general statement is:
+
+> **Tomcat sends an HTTP response.**
+
+If the requested resource is a JSP, that response body usually contains HTML.
+
+---
+
+# 🧠 Let's Connect Everything You've Learned So Far
+
+Without realizing it, you've built a complete mental model of how a JSP application works.
+
+```
+                    USER
+                      │
+                      ▼
+                 Firefox
+                      │
+               HTTP Request
+                      │
+                      ▼
+                 localhost
+                      │
+                Port 8080
+                      │
+                      ▼
+          Apache Tomcat
+                      │
+        ┌─────────────┴─────────────┐
+        │                           │
+        ▼                           ▼
+   Static File                 JSP / Servlet
+                                    │
+                                    ▼
+                                 JDBC
+                                    │
+                                    ▼
+                                 SQLite
+                                    │
+                                    ▼
+                           Generate HTML
+                                    │
+                                    ▼
+                          HTTP Response
+                                    │
+                                    ▼
+                                Firefox
+```
+
+Notice something interesting.
+
+**We haven't written a single line of JSP yet.**
+
+Yet you already know where every piece fits.
+
+This is why I insisted on spending time on Module 0.
+
+---
+
+# 📚 Module 1 Progress
+
+We've completed:
+
+* ✅ 1.1 What is Tomcat?
+* ✅ Tomcat Responsibilities
+* ✅ Basic Directory Overview
+
+Next, we'll study something that almost nobody explains properly:
+
+# ➡️ [[Module 1.2 — Inside the Tomcat Directory]]. 
+
+We're going to open **every important folder** in:
+
+```
+/home/araf/server/apache-tomcat-9.0.119
+```
+
+and answer questions like:
+
+* Why is there both `webapps/` **and** `work/`?
+* What is `conf/server.xml`?
+* What is `web.xml`?
+* Why is there a `lib/` folder if Java already has libraries?
+* What exactly happens when you put your project into `webapps/`?
+* What is the `ROOT` application?
+* What is the `manager` application?
+* What is `catalina.sh` vs `startup.sh`?
+* Why do `startup.sh` and `shutdown.sh` exist if they both call the same script?
+
+By the end of that module, you'll be comfortable navigating your Tomcat installation like someone who has been using it for months instead of days.
+
+I consider this one of the most practical Tomcat lessons because you'll be able to look at your installation and immediately know **what each folder is for and when you might need it**.

@@ -9,3 +9,12 @@ Module: 0-4
 
 # Module 1 — Apache Tomcat
 - => [[Module 1.0 - Apache Tomcat]]. 
+- => **1.2 Installation** <<< *I am using Linux so it's going to be useful for you. And you already know how to install Tomcat because you did it in class*.
+- => **1.3 Starting Tomcat** <<< *same goes for this one as well*. 
+`Sorry for the inconvenience. To compensate this let me add some new Modules`.
+- => [[Module 1.2 — Inside the Tomcat Directory]].
+- => [[Module 1.3 Starting Tomcat & Understanding What Happens]].
+
+# Module 2 - Servlets (Before JSP)
+- => [[2.1 Before Servlets Existed]]. 
+- => [[2.2 — Servlet Life Cycle]].
