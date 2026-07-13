@@ -23,3 +23,4 @@ Quartz is a set of tools that helps you publish your [digital garden](https://jz
 ```
 npx quartz sync
 ```
+use this command and you don't have to do git add, commit, push. It does everything.

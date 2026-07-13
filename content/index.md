@@ -2,7 +2,7 @@
 ***
 # 🫩 Exam section.
 ## => Mid exams.
-## => Monthly exams.
+## => [[Monthly exams]].
 
 ***
 
