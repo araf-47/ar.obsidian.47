@@ -9,6 +9,7 @@
 # 🌴 Learning Section
 ## => [[Learn JSP]].
 ## => [[Learn TypeScript]].
+## => [[Learn Angular]].
 
 ***
 
