@@ -13,7 +13,7 @@
   * ⬜ Lesson 1.3 — Angular Project Structure
   * ⬜ Lesson 1.4 — Running & Building an Angular Application
 
----
+***
 
 # Lesson Objective
 
@@ -26,7 +26,7 @@ By the end of this lesson, you should be able to answer:
 * How is it different from using plain HTML, CSS, and JavaScript?
 * What are the main building blocks of an Angular application?
 
----
+***
 
 # Before We Talk About Angular...
 
@@ -94,7 +94,7 @@ After a while, problems start appearing.
 
 These challenges become much more noticeable as applications grow.
 
----
+***
 
 # Why Frameworks Were Created
 
@@ -129,7 +129,7 @@ You focus on building your application.
 
 Angular is one such framework.
 
----
+***
 
 # So, What is Angular?
 
@@ -137,7 +137,7 @@ Angular is one such framework.
 
 Let's break that sentence down.
 
----
+***
 
 ## Front-end
 
@@ -160,7 +160,7 @@ Angular does **not** replace your server-side technology. For example:
 
 Angular is the client-side part of the application.
 
----
+***
 
 ## Framework
 
@@ -176,7 +176,7 @@ A framework is like getting a complete blueprint for the house. The blueprint te
 
 Angular is a framework because it defines how your application is organized.
 
----
+***
 
 ## Open Source
 
@@ -189,7 +189,7 @@ Anyone can:
 * report issues,
 * use it without paying a license fee.
 
----
+***
 
 ## TypeScript
 
@@ -197,7 +197,7 @@ Angular applications are primarily written in **TypeScript**, which is why Modul
 
 Don't worry—we'll introduce the TypeScript features you need as we encounter them.
 
----
+***
 
 ## Single-Page Application (SPA)
 
@@ -220,7 +220,7 @@ Returns a NEW HTML page
 
 Every navigation typically loads a new HTML document.
 
----
+***
 
 ### Angular Application
 
@@ -237,7 +237,7 @@ WITHOUT reloading the whole page
 
 Only the necessary parts of the page change, making the application feel faster and more like a desktop app.
 
----
+***
 
 # Real-World Examples
 
@@ -251,7 +251,7 @@ Many well-known applications use frameworks like Angular because they have:
 
 Angular is especially common in enterprise and business applications where consistency and structure are important.
 
----
+***
 
 # Core Features of Angular
 
@@ -271,7 +271,7 @@ We'll study each of these in depth later.
 
 By the end of this course, each of these should feel familiar rather than intimidating.
 
----
+***
 
 # Where Angular Fits
 
@@ -299,7 +299,7 @@ Angular handles the user interface. The back end handles business logic and data
 
 Since you've already worked with JSP, Servlets, JDBC, and SQL, you'll notice that Angular replaces the traditional server-rendered front end with a modern client-side application, while the server still provides APIs and interacts with the database.
 
----
+***
 
 # Common Beginner Misconceptions
 
@@ -307,25 +307,25 @@ Since you've already worked with JSP, Servlets, JDBC, and SQL, you'll notice tha
 
 No. TypeScript is the language. Angular is the framework.
 
----
+***
 
 ### ❌ "Angular replaces Java."
 
 No. Angular usually works **with** Java or another back-end technology.
 
----
+***
 
 ### ❌ "Angular is only HTML."
 
 No. It combines HTML, TypeScript, CSS, and its own framework features.
 
----
+***
 
 ### ❌ "Angular is only for large companies."
 
 Not at all. You can build small projects with Angular too. Its structure simply becomes more valuable as projects grow.
 
----
+***
 
 # Hands-on Exercise
 
@@ -341,7 +341,7 @@ Instead, answer these questions in your own words:
 
 Try to answer without copying the lesson. It's okay if your wording is different—the goal is to check your understanding.
 
----
+***
 
 # Lesson Summary
 
@@ -354,7 +354,7 @@ Today you learned:
 * ✅ The difference between a library and a framework
 * ✅ Where Angular fits in a full-stack application
 
----
+***
 
 ### Roadmap Progress
 

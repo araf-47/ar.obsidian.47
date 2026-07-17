@@ -1,5 +1,5 @@
 
----
+***
 
 # Angular Master Roadmap (Crash Course Foundation)
 
@@ -70,7 +70,7 @@
 * `import`
 * `export`
 
----
+***
 
 # [[Module 1 — Angular Introduction]].
 
@@ -105,7 +105,7 @@
 * Development server
 * Build process
 
----
+***
 
 # Module 2 — Components
 
@@ -139,7 +139,7 @@
 * Component lifecycle
 * `ngOnInit`
 
----
+***
 
 # Module 3 — Templates & Data Binding
 
@@ -168,7 +168,7 @@
 * Pipes
 * Built-in pipes
 
----
+***
 
 # Module 4 — Directives
 
@@ -200,7 +200,7 @@
 
 * `ngStyle`
 
----
+***
 
 # Module 5 — Component Communication
 
@@ -220,7 +220,7 @@
 
 * EventEmitter
 
----
+***
 
 # Module 6 — Forms
 
@@ -244,7 +244,7 @@
 
 * FormBuilder
 
----
+***
 
 # Module 7 — Services & Dependency Injection
 
@@ -264,7 +264,7 @@
 
 * Singleton services
 
----
+***
 
 # Module 8 — Routing
 
@@ -292,7 +292,7 @@
 
 * Navigation
 
----
+***
 
 # Module 9 — HTTP Communication
 
@@ -320,7 +320,7 @@
 
 * Consuming a public API
 
----
+***
 
 # Module 10 — Mini Project 1
 
@@ -333,7 +333,7 @@ Topics used:
 * Directives
 * Forms
 
----
+***
 
 # Module 11 — Mini Project 2
 
@@ -351,7 +351,7 @@ Topics used:
 * HTTP
 * Forms
 
----
+***
 
 # Module 12 — Angular Interview / Exam Revision
 
@@ -369,7 +369,7 @@ Topics used:
 * Common interview questions
 * Common exam questions
 
----
+***
 
 ## Progress Tracker
 
