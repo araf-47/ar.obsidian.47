@@ -541,7 +541,7 @@ Angular has introduced newer reactive features, such as **signals**, and in some
 
 * `ngOnInit()` is **still fully supported**.
 * You'll encounter it in countless real-world projects.
-* It's commonly expected in interviews and tutorials.
+* ==It's commonly expected in interviews and tutorials==.
 * It's the right lifecycle hook to learn before moving on to more advanced Angular features.
 
 So our roadmap is still following the right progression: first understand the classic component lifecycle, then later you'll be in a much better position to understand newer patterns.

@@ -143,7 +143,7 @@
 
 # Module 3 — Templates & Data Binding
 
-### Lesson 3.1
+### [[Lesson 3.1 (Understanding Data Binding & Interpolation)]].
 
 * Interpolation
 
