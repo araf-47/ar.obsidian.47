@@ -18,6 +18,11 @@ Quartz is a set of tools that helps you publish your [digital garden](https://jz
 
 ***
 
+# Deployment issue in .md formating
+in the markdown file I should always use `***` as a divider not the other one. 
+The other one (divider) cause a deployment issue. It says, `Quartz cannot parse one of your Markdown files`.
+This is a YAML frontmatter error. where the other divider acts as a YAML code opening. So the rest of markdown becomes YAML code.
+
 # My Daily used commands
 
 ```

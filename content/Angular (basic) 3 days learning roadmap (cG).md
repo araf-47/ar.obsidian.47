@@ -81,13 +81,13 @@
 * Features of Angular
 * Angular architecture overview
 
-### Lesson 1.2
+### [[Lesson 1.2 (Ang.Intro)]].
 
 * Installing Node.js
 * Installing Angular CLI
 * Creating the first project
 
-### Lesson 1.3
+### [[Lesson 1.3 (Ang.Intro)]].
 
 * Project structure
 
@@ -99,7 +99,7 @@
   * `angular.json`
   * `tsconfig.json`
 
-### Lesson 1.4
+### [[Lesson 1.4 (Ang.Intro)]].
 
 * Running the application
 * Development server
@@ -109,7 +109,7 @@
 
 # Module 2 — Components
 
-### Lesson 2.1
+### [[Lesson 2.1 (what is components)]].
 
 * What is a Component?
 * Component anatomy

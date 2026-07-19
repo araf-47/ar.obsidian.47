@@ -366,3 +366,5 @@ Today you learned:
   * ⬜ Lesson 1.4 — Running & Building an Angular Application
 
 Once you've answered the five review questions, we'll move to **Lesson 1.2**, where we'll install **Node.js and Angular CLI on both Debian 13 and Windows 11**, and I'll explain not just the commands but why each tool is needed.
+
+
