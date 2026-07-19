@@ -114,27 +114,27 @@
 * What is a Component?
 * Component anatomy
 
-### Lesson 2.2
+### [[Lesson 2.2 (Component Metadata)]]. 
 
 * Component metadata
 
-### Lesson 2.3
+### [[Lesson 2.3 (Component Selector)]].
 
 * Component selector
 
-### Lesson 2.4
+### [[Lesson 2.4 (Component template)]].
 
 * Component template
 
-### Lesson 2.5
+### [[Lesson 2.5 (Component styles)]].
 
 * Component styles
 
-### Lesson 2.6
+### [[Lesson 2.6 (Angular CLI component generation)]].
 
 * Angular CLI component generation
 
-### Lesson 2.7
+### [[Lesson 2.7 (Component Lifecycle)]].
 
 * Component lifecycle
 * `ngOnInit`
