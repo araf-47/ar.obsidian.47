@@ -147,23 +147,23 @@
 
 * Interpolation
 
-### Lesson 3.2
+### [[Lesson 3.2 (Property Binding)]].
 
 * Property binding
 
-### Lesson 3.3
+### [[Lesson 3.3 (Event Binding)]].
 
 * Event binding
 
-### Lesson 3.4
+### [[Lesson 3.4 (Two-Way Binding)]].
 
 * Two-way binding
 
-### Lesson 3.5
+### [[Lesson 3.5 (Template Expressions)]].
 
 * Template expressions
 
-### Lesson 3.6
+### [[Lesson 3.6 (Pipes & Built-in Pipes)]].
 
 * Pipes
 * Built-in pipes
