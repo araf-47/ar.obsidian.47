@@ -172,39 +172,50 @@
 
 # Module 4 — Directives
 
-### Lesson 4.1
+### [[Lesson 4.1 (What are directives)]].
 
 * What are directives?
 
-### Lesson 4.2
+### [[Lesson 4.2 (Structural directives)]].
 
 * Structural directives
 
-### Lesson 4.3
+### [[Lesson 4.3 (ngIf)]].
 
 * `*ngIf`
 
-### Lesson 4.4
+### [[Lesson 4.4 (ngFor)]].
 
 * `*ngFor`
 
-### Lesson 4.5
+### [[Lesson 4.5 (Attribute Directives)]].
 
 * Attribute directives
 
-### Lesson 4.6
+### [[Lesson 4.6 (ngClass)]].
 
 * `ngClass`
 
-### Lesson 4.7
+### [[Lesson 4.7 (ngStyle)]].
 
 * `ngStyle`
 
+## Module 4A Modern Angular Control Flow 
+####  [[Lesson M4.1 (Why Modern Control Flow)]].
+— Why Modern Control Flow?
+#### [[Lesson M4.2 (if)]].
+— `@if`
+#### [[Lesson M4.3 (for)]].
+— `@for`
+#### [[Lesson M4.4 (Old vs Modern Angular Syntax)]].
+— Old vs Modern Angular Syntax
+#### [[Lesson M4.5 (Migration Guide)]].
+— Migration Guide
 ***
 
 # Module 5 — Component Communication
 
-### Lesson 5.1
+### [[Lesson 5.1 (Parent and child components)]].
 
 * Parent and child components
 
@@ -417,4 +428,5 @@ This makes each lesson self-contained and easier to revisit.
 One final note: Angular has evolved significantly in recent versions, especially with **standalone components**, **signals**, and newer template control flow. This roadmap intentionally focuses on the foundational concepts that remain relevant across versions and are commonly taught in courses and exams. Once you complete it, we can add a follow-up module covering these modern Angular features so you're up to date with current best practices.
 
 
-# [[Our Learning agreement (angular)]] .
+# ~~[[Our Learning agreement (angular)]]~~ .
+# [[Our updated learning agreement (+ modern angular)]]. 
