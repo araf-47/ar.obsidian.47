@@ -219,15 +219,15 @@
 
 * Parent and child components
 
-### Lesson 5.2
+### [[Lesson 5.2 (Input)]].
 
 * `@Input`
 
-### Lesson 5.3
+### [[Lesson 5.3 (Output)]].
 
 * `@Output`
 
-### Lesson 5.4
+### [[Lesson 5.4 (EventEmitter)]].
 
 * EventEmitter
 
