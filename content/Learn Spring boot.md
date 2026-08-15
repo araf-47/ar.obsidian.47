@@ -1,0 +1,9 @@
+#editable 
+***
+### 🥀 [[Spring + Spring Boot, 4-Day Crash Course (Final Copy-Pasteable Session Roadmap v4)]]. 
+(This is the main syllabus / roadmap to study Spring boot.)
+
+--- 👇 ---
+
+#### Day 1
+- => [[Session 1.1 — What is Spring]]?
