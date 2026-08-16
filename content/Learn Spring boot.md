@@ -7,3 +7,4 @@
 
 #### Day 1
 - => [[Session 1.1 — What is Spring]]?
+- => [[Session 1.2 — IoC (Inversion of Control)]].
