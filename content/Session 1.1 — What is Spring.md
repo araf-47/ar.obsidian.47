@@ -256,7 +256,7 @@ class UserService {
     }
 }
 ```
-
+- 👆[^1]
 The relationship is:
 
 ```text
@@ -296,7 +296,7 @@ UserService       EmailService
           dependency
 ```
 
-The framework handles the construction and wiring.
+The ==framework handles the construction and wiring==.
 
 **That's one of the most important ideas behind Spring.**
 
@@ -595,3 +595,7 @@ Before moving to the next lesson, you should be able to answer these without loo
 7. If `UserService` creates `UserRepository` with `new`, what responsibility does `UserService` have that Spring could take over?
 
 **Your turn:** answer the 3 practical questions and the 7 checkpoint questions. I'll evaluate your answers before we continue.
+
+***
+
+[^1]: [[Java Classes, Objects, Variables & References (4m Spring-boot) (cG)]]
