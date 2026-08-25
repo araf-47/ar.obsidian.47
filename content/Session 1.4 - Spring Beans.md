@@ -407,7 +407,7 @@ Your code can interact with the container through `ApplicationContext`.
 
 Your syllabus says **basic understanding**, so we will keep this simple.
 
-A Bean generally goes through a lifecycle like this:
+A Bean generally goes through a lifecycle like this:[^1]
 
 ```text
 Spring starts
@@ -659,3 +659,6 @@ Spring Container
 Hint: Think about what happens to a Bean from creation until the application shuts down.
 
 Once you can answer those five and complete the practical exercise, **Session 1.4 is understood at the level needed for this crash course.**
+***
+# Footnotes
+[^1]: [[what is initialization (in programming)]].

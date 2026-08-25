@@ -10,3 +10,4 @@
 - => [[Session 1.2 — IoC (Inversion of Control)]].
 - => [[Session 1.3 - Dependency Injection]].
 - => [[Session 1.4 - Spring Beans]].
+- => [[Session 1.5 - Component Scanning and Stereotype Annotations]].
