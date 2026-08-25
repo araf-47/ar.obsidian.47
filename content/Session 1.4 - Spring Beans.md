@@ -28,7 +28,7 @@ creates
 Service object
 ```
 
-That Spring-managed object is called a **Bean**.
+==That Spring-managed object is called== a **Bean**.
 
 So:
 
