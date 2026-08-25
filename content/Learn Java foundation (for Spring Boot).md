@@ -3,3 +3,5 @@
 
 ***
 ### My Study
+- **Phase 0**
+	- [[Session 0.1 - How Java Works]].
