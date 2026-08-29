@@ -5,9 +5,12 @@
 
 ***
 
-#### Day 1
+#### Day 1 :
 - => [[Session 1.1 — What is Spring]]?
 - => [[Session 1.2 — IoC (Inversion of Control)]].
 - => [[Session 1.3 - Dependency Injection]].
 - => [[Session 1.4 - Spring Beans]].
-- => [[Session 1.5 - Component Scanning and Stereotype Annotations]].
+- => [[Session 1.5 - Component Scanning and Stereotype Annotations (v2)]].
+- => [[Session 1.6 — Configuration and @Bean]].
+
+#### Day 2 : 
