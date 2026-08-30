@@ -14,3 +14,4 @@
 - => [[Session 1.6 — Configuration and @Bean]].
 
 #### Day 2 : 
+- => [[Session 2.1 - What is Spring Boot]]?
