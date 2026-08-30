@@ -15,3 +15,7 @@
 
 #### Day 2 : 
 - => [[Session 2.1 - What is Spring Boot]]?
+- => [[Session 2.2 - Spring Initializr + Project Setup]].
+- => [[Session 2.3 - Spring Boot Application]].
+	- > [[How to Run Your First Spring Boot Application]]. (*not a part of the main syllabus*.)
+- => [[Session 2.4 - application.properties]].
