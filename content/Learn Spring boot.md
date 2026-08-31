@@ -19,3 +19,5 @@
 - => [[Session 2.3 - Spring Boot Application]].
 	- > [[How to Run Your First Spring Boot Application]]. (*not a part of the main syllabus*.)
 - => [[Session 2.4 - application.properties]].
+- => [[Session 2.5 - REST and Spring MVC Basics]].
+- =>  [[Session 2.6 - Request Data]].
