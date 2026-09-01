@@ -10,7 +10,7 @@ Suppose Angular sends:
 GET /api/tenants/5
 ```
 
-Spring needs to get that `5` into your Java code.
+Spring needs to get that `5` into your Java code [^1].
 
 Or Angular sends:
 
@@ -67,7 +67,7 @@ GET /api/tenants/5
 ```
 
 might reach:
-
+- [^2]
 ```java
 @GetMapping("/api/tenants/{id}")
 public Tenant getTenant(...) {
@@ -296,7 +296,7 @@ GET /api/tenants?city=Dhaka
 
 Here `city=Dhaka` is a **query parameter**.
 
-You may remember query parameters from HTTP/Angular.
+You may remember query parameters from HTTP/Angular [^3].
 
 The structure is:
 
@@ -1035,3 +1035,10 @@ public String test(________ Tenant tenant) {
 ```
 
 **Answer with your answers to 1–4.** I'll check them before we move on.
+
+***
+
+# Footnotes
+[^1]: [[Why Spring needs to get that 5 into my Java code]]?
+[^2]: [[URL Path Variables (4m s2.6-rd)]].
+[^3]: [[Nope, I forgot about query parameters from HTTP-Angular]].

@@ -69,6 +69,10 @@ A **REST API** is a backend interface where clients communicate with resources u
 
 You can think of it as a contract between frontend and backend.
 
+
+> **For more information**:
+> - 📽️ [What is a REST API?](https://youtu.be/SLwpqD8n3d0?si=nKtLTpw881xkZJo3). 
+> - https://www.ibm.com/think/topics/rest-apis
 ***
 
 # 2. What is a Resource?
@@ -829,7 +833,7 @@ We'll keep the actual API testing mechanics for the appropriate session.
 
 ***
 
-# 21. Why is this called Spring MVC?
+# 21. Why is this called Spring MVC[^1]?
 
 You may wonder:
 
@@ -953,7 +957,7 @@ Your goal is to write the controller yourself using:
 
 ***
 
-# Checkpoint 🧠
+# Checkpoint 🧠 [^2]
 
 Before moving on, answer these **without looking back**:
 
@@ -1033,4 +1037,10 @@ what HTTP endpoint does `test()` handle?
 
 **Answer these 8 questions and show me your `ProductController`.** I'll check your understanding/code before we move to the next session.
 
-> Try this in any Ai.
+> Try this in any Ai by yourself.
+
+***
+
+# Footnotes
+[^1]: 📽️ [MVC Explained in 4 Minutes ](https://youtu.be/DUg2SWWK18I?si=2GI_SC5ef6rhOdFM)
+[^2]: [[My checkpoint answer and review (s2.5-r&smvcb)]].
