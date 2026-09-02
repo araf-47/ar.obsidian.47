@@ -21,3 +21,4 @@
 - => [[Session 2.4 - application.properties]].
 - => [[Session 2.5 - REST and Spring MVC Basics]].
 - =>  [[Session 2.6 - Request Data]].
+- => [[Session 2.7 - First REST API]].
