@@ -22,3 +22,5 @@
 - => [[Session 2.5 - REST and Spring MVC Basics]].
 - =>  [[Session 2.6 - Request Data]].
 - => [[Session 2.7 - First REST API]].
+- => [[Session 2.8 - API Testing]].
+- => [[Session 2.9 - CORS]].
