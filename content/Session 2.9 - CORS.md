@@ -333,6 +333,13 @@ WebMvcConfigurer
 comes in.
 
 Create a configuration class:
+```
+com.example.trial
+			|
+			|
+			└── Config/
+				└── CorsConfig.java
+```
 
 ```java
 @Configuration

@@ -4,7 +4,7 @@
 👆 <(This is the main syllabus/roadmap to study Spring boot.)
 
 ***
-
+### My Notes
 #### Day 1 :
 - => [[Session 1.1 — What is Spring]]?
 - => [[Session 1.2 — IoC (Inversion of Control)]].
@@ -24,3 +24,9 @@
 - => [[Session 2.7 - First REST API]].
 - => [[Session 2.8 - API Testing]].
 - => [[Session 2.9 - CORS]].
+> Complete the *Day 2 Checkpoint* from the roadmap/syllabus.
+
+#### Day 3 :
+- => [[Session 3.1 - From JDBC to JPA]].
+	- => [[Session 3.1 - From JDBC to JPA (v2)]].
+- => [[Session 3.2 - H2 Database]].
