@@ -29,4 +29,4 @@
 #### Day 3 :
 - => [[Session 3.1 - From JDBC to JPA]].
 	- => [[Session 3.1 - From JDBC to JPA (v2)]].
-- => [[Session 3.2 - H2 Database]].
+- => [[Session 3.2 - H2 Database (v2)]].
