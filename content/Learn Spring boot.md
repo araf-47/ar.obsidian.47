@@ -30,3 +30,7 @@
 - => [[Session 3.1 - From JDBC to JPA]].
 	- => [[Session 3.1 - From JDBC to JPA (v2)]].
 - => [[Session 3.2 - H2 Database (v2)]].
+- => [[Session 3.3 - Entities]].
+- => [[Session 3.4 - DTO Concepts (Resp.1)]].
+- => [[Session 3.5 - Repositories]].
+- => [[Session 3.6 - Service Layer (v2)]].

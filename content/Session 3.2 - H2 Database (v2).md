@@ -198,7 +198,7 @@ That's enough for today's purpose.
 
 # Part 3 — What is a Repository?
 
-Now suppose we have a Product:
+Now suppose we have a Product: 
 
 ```java
 Product product =
@@ -660,7 +660,7 @@ private Long id;
 
 # Part 13 — Let's actually save something
 
-We need some Spring-managed code that uses the repository.
+We need some Spring-managed code that uses the repository [^1].
 
 For today's exercise, we can use a simple runner:
 
@@ -882,3 +882,9 @@ Which one is the actual **database**?
 **7.** Most importantly: explain in your own words why we're using H2 **instead of PostgreSQL at this stage**.
 
 Once you answer these, I'll check whether you actually understand the session rather than just whether you can repeat the terminology.
+
+***
+
+# Footnote
+[^1]: [[S3.2-part13-TestDemo-class-explanation]].
+[^2]: [[How do I see data inside h2 database manually (s3.2)]].
