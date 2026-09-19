@@ -57,9 +57,9 @@
    **Correct Answer:** create applications that consume RESTful Web Services
 
 9. Which of the following is correct syntax to exclude?
-   - @SpringBootApplication(exclude =={Salary. class}) Public class Employee{}
+   - `@SpringBootApplication(exclude =={Salary. class}) Public class Employee{}`
    - @SpringBootApplication(include !={Salary. class})
-   - @SpringBootApplication(exclude ={Salary. class}) Public class Employee{}
+   - @SpringBootApplication(exclude = {Salary. class}) Public class Employee{}
    - None
    **Correct Answer:** @SpringBootApplication(exclude ={Salary. class}) Public class Employee{}
 

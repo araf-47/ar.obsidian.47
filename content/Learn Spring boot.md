@@ -34,3 +34,4 @@
 - => [[Session 3.4 - DTO Concepts (Resp.1)]].
 - => [[Session 3.5 - Repositories]].
 - => [[Session 3.6 - Service Layer (v2)]].
+- => [[Session 3.7 — Complete CRUD API]].

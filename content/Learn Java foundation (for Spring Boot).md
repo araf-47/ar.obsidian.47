@@ -2,6 +2,8 @@
 👆 This the syllabus/roadmap.
 
 ***
-### My Study
+### My Study & notes
 - **Phase 0**
 	- [[Session 0.1 - How Java Works]].
+- **Phase 1 — Fundamentals**
+	- [[Session 1.1 — Variables & Data Types (java)]].

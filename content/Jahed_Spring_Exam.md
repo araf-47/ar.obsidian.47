@@ -1,7 +1,7 @@
 # Mohammad Jahed Hasan Bhuiyan - Spring Boot Exam (Round-58)
 
 1. Which of the following is correct syntax to exclude?
-   - @SpringBootApplication(exclude =={Salary. class}) Public class Employee{}
+   - `@SpringBootApplication(exclude =={Salary. class}) Public class Employee{}`
    - @SpringBootApplication(include !={Salary. class})
    - @SpringBootApplication(exclude ={Salary. class}) Public class Employee{}
    - None
