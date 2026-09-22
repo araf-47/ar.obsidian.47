@@ -14,6 +14,7 @@
 ## => [[Learn TypeScript]].
 ## => [[Learn Angular]]. 💨
 ## => [[Learn Spring boot]]. 💨
+## => [[Learn Android (Acc. DAG)]] 💨 
 
 ***
 ## 🍉 Skills

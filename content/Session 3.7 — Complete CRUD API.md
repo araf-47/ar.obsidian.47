@@ -124,6 +124,9 @@ The CRUD logic works with whatever fields your existing `Tenant` entity has.
 
 # 4. Repository — our database access layer
 
+>=> [[what is generic in java (from Spring boot repository topic)]].
+
+
 You already learned this in Session 3.5.
 
 Open:
