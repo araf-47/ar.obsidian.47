@@ -12,7 +12,7 @@ DO NOT use Jetpack Compose as the implementation technology.
 
 All Android application code, examples, exercises, and project implementation should use JAVA unless I explicitly ask otherwise.
 
-I already have experience with:
+I have some beginner-level experience with:
 
 - HTML
 - CSS

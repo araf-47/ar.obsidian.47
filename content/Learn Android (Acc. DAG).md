@@ -2,3 +2,5 @@
 
 ***
 ## My Study and notes:
+- **Day 1** :
+	- [[Section 01 - Introduction to Android + Modern Android Development]].
