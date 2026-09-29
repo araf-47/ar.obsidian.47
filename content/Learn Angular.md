@@ -3,7 +3,7 @@
 Start learning Angular from here 👇
 ## ↪️ [[Angular (basic) 3 days learning roadmap (cG)]].
 
-## 🥀 [[Angular Roadmap Final Clean (v2.2)]]
+## 🥀 [[Angular Roadmap Final Clean (v2.2)]].
 
 ***
 ## My study & notes
