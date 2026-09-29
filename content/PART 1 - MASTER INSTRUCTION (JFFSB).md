@@ -7,7 +7,7 @@ IMPORTANT CONTEXT:
 
 I am NOT completely new to programming or Java.
 
-I already have experience with:
+I already have a little bit of experience with:
 - HTML
 - CSS
 - JavaScript

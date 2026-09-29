@@ -31,7 +31,9 @@ For each new conversation:
 
 **Step 2:** Paste **one session** from the syllabus.
 
-**Step 3:** The AI teaches only that session.
+**Step 3:** Paste the instruction at the bottom of this Roadmap under `# The one final rule ...` 
+
+**Step 4:** The AI teaches only that session.
 
 Don't paste multiple sessions at once. This makes scope control much better.
 
@@ -40,6 +42,8 @@ Don't paste multiple sessions at once. This makes scope control much better.
 # PART 1 — MASTER INSTRUCTION
 
 Copy everything inside this 👉 [[PART 1 - MASTER INSTRUCTION (JFFSB)]] into a new AI conversation.
++
+Also add `# The one final rule ...` at the bottom of this Roadmap after pasting the session that you want to learn. 
 
 ***
 
@@ -1396,3 +1400,18 @@ And I'll follow the same rules.
 For **Claude, Gemini, another ChatGPT conversation, etc.**, paste the Master Instruction + the specific session.
 
 That gives you a portable, controlled curriculum instead of relying on the AI to remember what the course is supposed to be doing.
+
+***
+
+> **Ready for Spring Boot?**
+> 
+> You now understand:
+> 
+> - Java objects and references ✓
+> - Interfaces and polymorphism ✓
+> - Constructor injection ✓
+> - Dependency management ✓
+> 
+> The Spring Boot crash course will teach you how Spring automates what you've just learned manually.
+> 
+> **Proceed to the Spring Boot Crash Course :-** [[Learn Spring boot]].

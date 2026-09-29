@@ -487,10 +487,10 @@ Just understand the broad relationship:
 ┌─────────────────────────────────────┐
 │         Your Android App            │
 │                                     │
-│  Java code                           │
-│  XML resources                       │
-│  App configuration                   │
-│  Images / strings / etc.             │
+│  Java code                          │
+│  XML resources                      │
+│  App configuration                  │
+│  Images / strings / etc.            │
 └─────────────────┬───────────────────┘
                   │
                   ▼
