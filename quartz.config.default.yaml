@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: https://araf-47.github.io/ar.obsidian.47/
+  baseUrl: araf-47.github.io/ar.obsidian.47
   ignorePatterns:
     - private
     - templates
@@ -115,8 +115,9 @@ plugins:
     enabled: true
   - source: github:quartz-community/og-image
     enabled: true
-  - source: github:quartz-community/cname
-    enabled: true
+# Only unable these lines (119 & 120) when you (Araf) have a real domain as baseUrl (line: 10), not ...github.io type of subdomain.
+  # - source: github:quartz-community/cname
+  #   enabled: true
   - source: github:quartz-community/canvas-page
     enabled: true
   - source: github:quartz-community/content-page
