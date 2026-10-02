@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: https://araf-47.github.io/ar.obsidian.47/
   ignorePatterns:
     - private
     - templates
