@@ -408,32 +408,6 @@ Topics used:
 
 ***
 
-# Progress Tracker
-
-* ⬜ Module 0 — TypeScript Essentials
-  * ⬜ Lesson 0.1
-  * ⬜ Lesson 0.2
-  * ⬜ Lesson 0.3
-  * ⬜ Lesson 0.4
-  * ⬜ Lesson 0.5
-  * ⬜ Lesson 0.6
-  * ⬜ Lesson 0.7
-  * ⬜ Lesson 0.8
-  * ⬜ Lesson 0.9
-  * ⬜ Lesson 0.10
-* ⬜ Module 1 — Angular Introduction
-* ⬜ Module 2 — Components
-* ⬜ Module 3 — Templates & Data Binding
-* ⬜ Module 4 — Modern Control Flow & Directives
-* ⬜ Module 5 — Signals
-* ⬜ Module 6 — Component Communication
-* ⬜ Module 7 — Forms
-* ⬜ Module 8 — Services & Dependency Injection
-* ⬜ Module 9 — Routing
-* ⬜ Module 10 — HTTP & RxJS Basics
-* ⬜ Module 11 — Mini Project 1
-* ⬜ Module 12 — Mini Project 2
-* ⬜ Module 13 — Revision
 
 ***
 
